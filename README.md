@@ -3,9 +3,11 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alitor004/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alitor_004/)
 
-![Alitor GitHub stats](https://github-readme-stats.vercel.app/api?username=alitor004&show_icons=true&theme=tokyonight)
+![Alitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=alitor004&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alitor004&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
-### Tecnologias que eu uso no meu dia
+
+### Ferramentas que eu uso no meu dia
 
 <div style="display: inline_block"><br/> 
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
@@ -17,6 +19,7 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
     <img align="center" alt="html5" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
     <img align="center" alt="html5" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div>
 
 <!--
